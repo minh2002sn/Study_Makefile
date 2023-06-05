@@ -3,7 +3,7 @@
 
 int main()
 {
-    printf("Minh's score: %d\n", score());
+    func_1();
 
     return 0;
 }

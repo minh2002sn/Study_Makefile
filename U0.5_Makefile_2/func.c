@@ -1,6 +1,6 @@
 #include "func.h"
 
-int score()
+void func_1()
 {
-    return 10;
+    printf("PIF");
 }

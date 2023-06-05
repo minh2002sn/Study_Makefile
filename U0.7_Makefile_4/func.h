@@ -3,6 +3,6 @@
 
 #include <stdio.h>
 
-int score();
+// inline int score();
 
 #endif

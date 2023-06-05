@@ -3,6 +3,6 @@
 
 #include <stdio.h>
 
-int score();
+void func_1();
 
 #endif

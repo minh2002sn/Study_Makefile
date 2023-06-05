@@ -1,6 +1,6 @@
 #include "func.h"
 
-int score()
-{
-    return 10;
-}
+// inline int score()
+// {
+//     return 10;
+// }
